@@ -9,7 +9,7 @@ env:
   LOCATION: eastus
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 4fc8d106-bb2a-4673-a1fc-8d24ebbaec24
-  WEBAPP-NAME: eshoponweb-five
+  WEBAPP-NAME: therealjonschneider-ttt-app
 
 
 jobs:
